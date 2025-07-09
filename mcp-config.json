@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "gmail": {
+      "command": "node",
+      "args": ["/Users/nisalgunawardhana/Desktop/email-mcp-server/src/index.js"],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}
