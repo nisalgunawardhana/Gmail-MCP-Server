@@ -1,28 +1,19 @@
 # Gmail MCP Server
 A Node.js server that connects the Model Context Protocol (MCP) to Gmail, enabling large language models to send, read, and manage emails securely using the Gmail API.
 <p align="center">
-   <a href="https://github.com/nisalgunawardhana/email-mcp-server/watchers">
+   <a href="https://github.com/nisalgunawardhana/Gmail-MCP-Server/watchers">
       <img src="https://img.shields.io/github/watchers/nisalgunawardhana/email-mcp-server?style=social" alt="Watchers"/>
    </a>
    &nbsp;
-   <a href="https://github.com/nisalgunawardhana/email-mcp-server/stargazers">
+   <a href="https://github.com/nisalgunawardhana/Gmail-MCP-Server/stars">
       <img src="https://img.shields.io/github/stars/nisalgunawardhana/email-mcp-server?style=social" alt="Stars"/>
    </a>
    &nbsp;
-   <a href="https://github.com/nisalgunawardhana/email-mcp-server/network/members">
+   <a href="https://github.com/nisalgunawardhana/Gmail-MCP-Server/network/members">
       <img src="https://img.shields.io/github/forks/nisalgunawardhana/email-mcp-server?style=social" alt="Forks"/>
    </a>
 </p>
 
-## 👤 Author
-
-**Nisal Gunawardhana**
-
-- [GitHub](https://github.com/nisalgunawardhana) &nbsp; [![Follow on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow&style=social)](https://github.com/nisalgunawardhana)
-- [Twitter/X](https://twitter.com/nisal_gunaward)  
-- [LinkedIn](https://www.linkedin.com/in/nisalgunawardhana/)
-
-Feel free to connect or follow for updates and new projects!
 
 ## 🚀 What You Just Created
 
@@ -660,5 +651,15 @@ By contributing, you agree that your contributions will be licensed under the MI
 - Open an issue for questions about the codebase
 - Check existing documentation first
 - Be specific about what you're trying to achieve
+
+## 👤 Author
+
+**Nisal Gunawardhana**
+
+- [GitHub](https://github.com/nisalgunawardhana) &nbsp; [![Follow on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow&style=social)](https://github.com/nisalgunawardhana)
+- [Twitter/X](https://twitter.com/thenisal)  
+- [LinkedIn](https://www.linkedin.com/in/nisalgunawardhana/)
+
+Feel free to connect or follow for updates and new projects!
 
 Thank you for contributing to Gmail MCP Server! 🚀
