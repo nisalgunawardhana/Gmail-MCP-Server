@@ -2,15 +2,15 @@
 A Node.js server that connects the Model Context Protocol (MCP) to Gmail, enabling large language models to send, read, and manage emails securely using the Gmail API.
 <p align="center">
    <a href="https://github.com/nisalgunawardhana/Gmail-MCP-Server/watchers">
-      <img src="https://img.shields.io/github/watchers/nisalgunawardhana/email-mcp-server?style=social" alt="Watchers"/>
+      <img src="https://img.shields.io/github/watchers/nisalgunawardhana/Gmail-MCP-Server?style=social" alt="Watchers"/>
    </a>
    &nbsp;
    <a href="https://github.com/nisalgunawardhana/Gmail-MCP-Server/stars">
-      <img src="https://img.shields.io/github/stars/nisalgunawardhana/email-mcp-server?style=social" alt="Stars"/>
+      <img src="https://img.shields.io/github/stars/nisalgunawardhana/Gmail-MCP-Server?style=social" alt="Stars"/>
    </a>
    &nbsp;
    <a href="https://github.com/nisalgunawardhana/Gmail-MCP-Server/network/members">
-      <img src="https://img.shields.io/github/forks/nisalgunawardhana/email-mcp-server?style=social" alt="Forks"/>
+      <img src="https://img.shields.io/github/forks/nisalgunawardhana/Gmail-MCP-Server?style=social" alt="Forks"/>
    </a>
 </p>
 
