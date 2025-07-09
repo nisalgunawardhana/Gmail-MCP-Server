@@ -14,32 +14,6 @@ A Node.js server that connects the Model Context Protocol (MCP) to Gmail, enabli
    </a>
 </p>
 
-
-## 🚀 What You Just Created
-
-You now have a complete **Model Context Protocol (MCP) server** that enables large language models to send Gmail messages! This server acts as a bridge between AI models and Gmail's API, allowing LLMs to compose and send emails on your behalf.
-
-## 📁 Project Structure
-
-```
-email-mcp-server/
-├── src/
-│   ├── index.js              # Main MCP server entry point
-│   ├── gmail-service.js      # Gmail API integration
-│   └── validation.js         # Input validation and sanitization
-├── test/
-│   └── test.js              # Basic functionality tests
-├── examples/
-│   └── usage-examples.md    # Usage examples and integration guides
-├── package.json             # Project dependencies and scripts
-├── setup-auth.js           # Authentication setup helper
-├── mcp-config.json         # MCP client configuration template
-├── credentials.json.template # Google OAuth credentials template
-├── .env.example            # Environment variables template
-├── .gitignore              # Git ignore rules
-└── README.md               # Comprehensive documentation
-```
-
 ## Features
 
 - 📤 Send emails through Gmail API
